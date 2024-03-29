@@ -14,13 +14,11 @@ The Housing Price Prediction initiative seeks to analyze and forecast property v
 # Python Libraries used
 **Data Wrangling and Manipulation**
 
-Numpy
-Pandas
+Numpy and Pandas
 
 **Visualization:**
 
-Matplotlib
-Seaborn
+Matplotlib and Seaborn
 
 **Machine learning models:**
 Scikit Learn
@@ -36,4 +34,5 @@ Following models have been used for predictions:-
 Linear Regression and Random Forest , along with Hyperparameter tuning and Cross-Validation techniques.
 
 # Notable Findings
+I have noticed that Random Forest model is the stand out performer among other models with a R-Square of 0.83 and MSE of 1040.52.Hence, it's safe to say that that Random Forest model provide a optimal solution to our problem.
 
